@@ -13,7 +13,7 @@
 ## [Cordel](https://maxthexus.github.io/CORDEL/)
 ## [Landing_Page](https://maxthexus.github.io/LANDING-PAGE/)
 
-<h2><a href="https://maxthexus.github.io/ANDROID/">Android</a></h2>
+<h2><a  href="https://maxthexus.github.io/ANDROID/">Android</a></h2>
 
 
 </div>
