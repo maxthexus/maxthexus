@@ -7,7 +7,7 @@
 
 <div>
 
-## Projetos
+## Projetos de Estudo
 
 
 <h2><a href="https://maxthexus.github.io/ANDROID/" target="_blank" >Android</a></h2>
