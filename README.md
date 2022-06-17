@@ -1,4 +1,7 @@
-## Olá eu sou a Matheus Duarte, e estou aprendendo mais sobre WebDesing e Programação!
+# Olá,
+## Eu sou o Matheus e estou me aprofundando em Desenvolvimento de Sites e Sistemas.
+## Seja Bem Vindo ao meu perfil!
+
 <div align="center">
   <a href="https://github.com/maxthexus">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maxthexus&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
