@@ -1,6 +1,12 @@
-# Olá,
-## Eu sou o Matheus e estou me aprofundando em Desenvolvimento de Sites e Sistemas.
-## Seja Bem Vindo ao meu perfil!
+# <span style="color:#E6F116">Olá, seja bem vindo ao meu perfil!
+
+#
+
+## <span style="color:#E6F116">Meu nome é Matheus Duarte e estou me aprofundando em Desenvolvimento de Sites e Sistemas.
+
+#
+# 
+#
 
 <div align="center">
   <a href="https://github.com/maxthexus">
@@ -10,14 +16,21 @@
 
 <div>
 
-## Projetos de Estudo
+#
+#
 
+## <span style="color:#E6F116">Projetos de Estudo
 
-<h2><a href="https://maxthexus.github.io/ANDROID/" target="_blank" >Android</a></h2>
-<h2><a href="https://maxthexus.github.io/CORDEL/"  target="_blank" >Cordel</a></h2>
-<h2><a href="https://maxthexus.github.io/LANDING-PAGE/"  target="_blank" >Landing Page</a></h2>
+#
+
+<span style="color:#E6F116"><h2><a href="https://maxthexus.github.io/ANDROID/" target="_blank" ><span style="color:white">Android</a></h2>
+<h2><a href="https://maxthexus.github.io/CORDEL/"  target="_blank" ><span style="color:white">Cordel</a></h2>
+<h2><a href="https://maxthexus.github.io/LANDING-PAGE/"  target="_blank" ><span style="color:white">Landing Page</a></h2>
 
 </div>
+
+#
+#
 
 <div> 
 
