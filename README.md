@@ -9,7 +9,10 @@
 
 ## Projetos
 
-[Android]()
+[Android](https://maxthexus.github.io/ANDROID/)
+[Cordel](https://maxthexus.github.io/CORDEL/)
+[Landing_Page](https://maxthexus.github.io/LANDING-PAGE/)
+
 
 </div>
 
