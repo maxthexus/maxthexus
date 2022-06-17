@@ -9,9 +9,13 @@
 
 ## Projetos
 
-## [Android](https://maxthexus.github.io/ANDROID/){:target="blank"}
-## [Cordel](https://maxthexus.github.io/CORDEL/){:target="blank"}
-## [Landing_Page](https://maxthexus.github.io/LANDING-PAGE/){:target="blank"}
+
+  <a href="[http://example.com/](https://maxthexus.github.io/ANDROID/)" target="_blank">Android</a>
+  
+  <a href="[http://example.com/](https://maxthexus.github.io/CORDEL/)" target="_blank">Cordel</a>
+  
+  <a href="[http://example.com/](https://maxthexus.github.io/LANDING-PAGE/)" target="_blank">Landing Page</a>
+
 
 
 </div>
