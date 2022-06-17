@@ -1,4 +1,4 @@
-## Oiii eu sou a Rafaella Ballerini, criadora de conteúdo de programação e tecnologia!
+## Olá eu sou a Matheus Duarte, e estou aprendendo mais sobre WebDesing e Programação!
 <div align="center">
   <a href="https://github.com/maxthexus">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maxthexus&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
