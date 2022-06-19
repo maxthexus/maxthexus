@@ -35,6 +35,7 @@
 ## <span style="color:#E6F116">Exercícios  
   
 <h2><a href="https://maxthexus.github.io/HTML-CSS/"  target="_blank" ><span style="color:white">HTML -CSS </a></h2>
+<h2><a href="https://maxthexus.github.io/JAVASCRIPT/"  target="_blank" ><span style="color:white">JAVASCRIPT</a></h2>
 
 <div> 
 
