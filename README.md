@@ -27,6 +27,8 @@
 <h2><a href="https://maxthexus.github.io/CORDEL/"  target="_blank" ><span style="color:white">Cordel</a></h2>
 <h2><a href="https://maxthexus.github.io/LANDING-PAGE/"  target="_blank" ><span style="color:white">Landing Page</a></h2>
  <h2><a href="https://maxthexus.github.io/TELA-LOGIN/"  target="_blank" ><span style="color:white">Tela de Login</a></h2>
+ <h2><a href="https://maxthexus.github.io/DASHBOARD/"  target="_blank" ><span style="color:white">Dashboard - Admin</a></h2>  
+
 
 </div>
 
